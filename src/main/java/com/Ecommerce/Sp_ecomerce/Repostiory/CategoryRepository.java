@@ -1,4 +1,4 @@
-package com.Ecommerce.Sp_ecomerce.com.ecommerce.project;
+package com.Ecommerce.Sp_ecomerce.Repostiory;
 
 
 import com.Ecommerce.Sp_ecomerce.model.Category;

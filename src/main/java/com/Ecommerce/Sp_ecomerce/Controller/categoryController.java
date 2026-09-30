@@ -5,12 +5,10 @@ import com.Ecommerce.Sp_ecomerce.PayLoad.CategoryDTO;
 import com.Ecommerce.Sp_ecomerce.PayLoad.CategoryResponse;
 import com.Ecommerce.Sp_ecomerce.Service.Categoryservice;
 import com.Ecommerce.Sp_ecomerce.Service.serviceCategory;
-import com.Ecommerce.Sp_ecomerce.model.Category;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import java.util.List;
 
 @RestController
 @RequestMapping("/api")
